@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Site Finder icon">
+  <rect width="128" height="128" fill="#1769A6"/>
+  <path d="M64 22c-20 0-36 16-36 36 0 25 36 48 36 48s36-23 36-48c0-20-16-36-36-36Z" fill="#F4F1E8"/>
+  <circle cx="64" cy="58" r="16" fill="#1769A6"/>
+  <path d="m56 58 6 6 12-14" fill="none" stroke="#F4F1E8" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+</svg>
