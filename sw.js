@@ -1,5 +1,5 @@
 // PWA: cache only the public application shell; never cache API responses, ID tokens, or private search results.
-const CACHE_NAME = "site-finder-shell-v3";
+const CACHE_NAME = "site-finder-shell-v4";
 const SHELL = ["/site-finder/", "/site-finder/manifest.webmanifest", "/site-finder/icon.svg", "/site-finder/icon-180.png", "/site-finder/icon-192.png", "/site-finder/icon-512.png"];
 
 self.addEventListener("install", (event) => {
