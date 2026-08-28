@@ -8,6 +8,7 @@
   "background_color": "#F4F1E8",
   "theme_color": "#F4F1E8",
   "icons": [
+    { "src": "/site-finder/icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
     { "src": "/site-finder/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
